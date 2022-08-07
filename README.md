@@ -1,6 +1,6 @@
 ### Hi 👋 This is Vijay
-🌱 I’m currently learning ... Problem Solving using C++ and Python
-📫 How to reach me: ... https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/
+### 🌱 I’m currently learning ... Problem Solving using C++ and Python
+### 📫 How to reach me: ... https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/
 <!--
 **vijaymanikantareddy/vijaymanikantareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
