@@ -18,7 +18,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/vijaymanikantareddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://instagram.com/vijay_square" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijaymanikantareddy" height="30" width="40" /></a><a href="https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/vijaymanikantareddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://instagram.com/vijay_square" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijaymanikantareddy" height="32" width="32" /></a><a href="https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 ### Badges
