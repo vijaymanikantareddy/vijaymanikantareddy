@@ -1,5 +1,7 @@
 ### Hi 👋 This is Vijay
-### 🌱 I’m currently learning ... Problem Solving using C++ && Python
+### 🌱 I’m currently learning ... 
+      ✨Problem Solving using Java, C++ && Python
+      ✨Full Stack Developer
 ### 📫 How to reach me in: ... [Linkedin](https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/)
 
 
