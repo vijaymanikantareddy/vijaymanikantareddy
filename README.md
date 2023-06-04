@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vijay
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Vijay
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to work on Web Development
 <!-- - 👯 I’m making the world better by PRs  -->
 - 💬 Ask me about Technology
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/" style="text-decoration: none;">Linkedin</a>
 - ⚡ Fun fact: I'm currently studying Information Technology in B. Tech 
 
 <a href="https://www.github.com/vijaymanikantareddy" target="_blank" rel="noreferrer"><img
@@ -14,6 +14,19 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaymanikantareddy&label=Profile%20views&color=0e75b6&style=flat" alt="vijaymanikantareddy" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/vijay_square" target="blank"><img src="https://img.shields.io/twitter/follow/vijay_square?logo=twitter&style=for-the-badge" alt="vijaymanikantareddy" /></a> </p> -->
+
+
+
+[![](https://leetcard.jacoblin.cool/vijaymanikantareddy?theme=dark)](https://leetcode.com/vijaymanikantareddy/)
+
+
+
+[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vijaymanikantareddy)](https://auth.geeksforgeeks.org/user/vijaymanikantareddy)
+
+
+
+
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
@@ -31,16 +44,6 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 <a href="http://www.github.com/vijaymanikantareddy"><img src="https://github-readme-stats.vercel.app/api?username=vijaymanikantareddy&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vijaymanikantareddy's GitHub stats" /></a>
 
 <a href="http://www.github.com/vijaymanikantareddy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaymanikantareddy&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-[![](https://leetcard.jacoblin.cool/vijaymanikantareddy?theme=dark)](https://leetcode.com/vijaymanikantareddy/)
-
-
-
-[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vijaymanikantareddy)](https://auth.geeksforgeeks.org/user/vijaymanikantareddy)
-
-
-
 
 <a href="http://www.github.com/vijaymanikantareddy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vijaymanikantareddy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
