@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to work on Web Development
 <!-- - 👯 I’m making the world better by PRs  -->
 - 💬 Ask me about Technology
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/" style="text-decoration: none;">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/" style="color: #0060B6; text-decoration: none;">Linkedin</a>
 - ⚡ Fun fact: I'm currently studying Information Technology in B. Tech 
 
 <a href="https://www.github.com/vijaymanikantareddy" target="_blank" rel="noreferrer"><img
