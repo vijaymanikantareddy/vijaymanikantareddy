@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 <a href="http://www.github.com/vijaymanikantareddy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaymanikantareddy&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-![](https://leetcard.jacoblin.cool/vijaymanikantareddy?ext=heatmap?theme=dark)
+![](https://leetcard.jacoblin.cool/vijaymanikantareddy?theme=dark)
 
 
 
