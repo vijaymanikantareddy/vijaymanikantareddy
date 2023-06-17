@@ -1,14 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Vijay
 ======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+
+<!-- <h4>A Full-Stack developer | MERN Stack</h4>
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m Interested to work on Web Development
-<!-- - 👯 I’m making the world better by PRs  -->
+<!-- - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vijay-manikanta-reddy-sathi-22b90a20a/" style="color: #0060B6; text-decoration: none;">Linkedin</a>
 - ⚡ Fun fact: I'm currently studying Information Technology in B. Tech 
-
+ -->
+ 
 <a href="https://www.github.com/vijaymanikantareddy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaymanikantareddy&label=Profile%20views&color=0e75b6&style=flat" alt="vijaymanikantareddy" /> </p>
