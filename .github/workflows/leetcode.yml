@@ -18,7 +18,7 @@ jobs:
           python-version: '3.9'  # Replace with your desired Python version
 
       - name: Install required packages
-        run: pip install python-leetcode  # Create a requirements.txt file with 'leetcode' package
+        run: pip install -r requirements.txt  # Create a requirements.txt file with 'leetcode' package
 
       - name: Fetch LeetCode submissions
         run: python fetch_submissions.py  # Run the Python script to retrieve submissions and generate graph
