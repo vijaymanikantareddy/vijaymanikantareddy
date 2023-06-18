@@ -1,20 +1,29 @@
 import os
 import json
 import requests
+import matplotlib.pyplot as plt
+from matplotlib.dates import DateFormatter
 
 # Retrieve LeetCode submissions
 response = requests.get('https://leetcode.com/api/user_submission_calendar/vijaymanikantareddy/')
 data = response.json()
 
-# Generate graph
+# Extract submission data
 submissions = data['submissions']
-graph_data = [0] * 366  # Initialize the graph with 366 days
+dates = [submission['date'] for submission in submissions]
+counts = [submission['count'] for submission in submissions]
 
-for submission in submissions:
-    date = submission['date']
-    count = submission['count']
-    graph_data[date] = count
+# Convert dates to matplotlib format
+formatted_dates = [date[:4] + '-' + date[4:6] + '-' + date[6:] for date in dates]
+formatted_dates = [plt.datetime.strptime(date, "%Y-%m-%d").date() for date in formatted_dates]
 
-# Save graph data to a file
-with open('leetcode_graph_data.json', 'w') as file:
-    json.dump(graph_data, file)
+# Generate the graph
+fig, ax = plt.subplots()
+ax.plot(formatted_dates, counts, color='blue')
+ax.xaxis.set_major_formatter(DateFormatter("%b '%y"))
+ax.set_xlabel('Date')
+ax.set_ylabel('Submissions')
+ax.set_title('LeetCode Submissions')
+
+# Save the graph as SVG
+plt.savefig('leetcode_graph.svg')
