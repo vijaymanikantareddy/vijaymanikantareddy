@@ -2,7 +2,7 @@ name: LeetCode Contributions
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Runs the workflow daily at 00:00 UTC
+    - cron: "30 3 * * *"  # Runs the workflow daily at 00:00 UTC
 
 jobs:
   build:
