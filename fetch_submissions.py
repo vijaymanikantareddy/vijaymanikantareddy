@@ -1,3 +1,8 @@
+import subprocess
+
+# Install matplotlib using pip
+subprocess.check_call(['pip', 'install', 'matplotlib'])
+
 import os
 import json
 import requests
