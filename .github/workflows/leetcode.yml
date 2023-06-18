@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Replace with your desired Python version
+          python-version: '3.9'  # Replace with your desired Python version
 
       - name: Install required packages
         run: pip install -r requirements.txt  # Create a requirements.txt file with 'leetcode' package
