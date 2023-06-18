@@ -23,6 +23,10 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 
 
 
+![LeetCode Submissions](leetcode_graph.svg)
+
+
+
 [![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vijaymanikantareddy)](https://auth.geeksforgeeks.org/user/vijaymanikantareddy)
 
 
