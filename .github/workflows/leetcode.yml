@@ -1,0 +1,32 @@
+name: LeetCode Contributions
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs the workflow daily at 00:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Replace with your desired Python version
+
+      - name: Install required packages
+        run: pip install -r requirements.txt  # Create a requirements.txt file with 'leetcode' package
+
+      - name: Fetch LeetCode submissions
+        run: python fetch_submissions.py  # Run the Python script to retrieve submissions and generate graph
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'vijaymanikantareddy'
+          git config --global user.email 'svmreddy7799@gmail.com'
+          git add .
+          git commit -m "Update LeetCode contributions"
+          git push
