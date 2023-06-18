@@ -16,6 +16,7 @@ try:
 
     # Parse the JSON data
     data = response.json()
+    print(response.content)
 
     # Process the data and generate the graph
     # ...
