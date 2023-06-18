@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 
 
 
-![LeetCode Submissions](leetcode_graph.svg)
+<!--![LeetCode Submissions](leetcode_graph.svg)-->
 
 
 
