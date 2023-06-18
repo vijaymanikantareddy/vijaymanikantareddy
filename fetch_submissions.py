@@ -8,7 +8,9 @@ import json
 import matplotlib.pyplot as plt
 
 # Make the API request
-response = requests.get('https://api.example.com/leetcode/submissions')
+response = requests.get('https://leetcode.com/api/problems/all/')
+print(response.content)
+
 
 try:
     # Check if the response is successful
