@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 
 
 
-[![](https://leetcard.jacoblin.cool/vijaymanikantareddy?theme=dark)](https://leetcode.com/vijaymanikantareddy/)
+<!--[![](https://leetcard.jacoblin.cool/vijaymanikantareddy?theme=dark)](https://leetcode.com/vijaymanikantareddy/)-->
 
 
 
@@ -27,8 +27,20 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 
 
 
-[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vijaymanikantareddy)](https://auth.geeksforgeeks.org/user/vijaymanikantareddy)
+<!--[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vijaymanikantareddy)](https://auth.geeksforgeeks.org/user/vijaymanikantareddy)-->
 
+
+<h3 align="left">LeetCode Statistics:</h3>
+
+[![Vijay's Leetcode Stats](https://leetcard.jacoblin.cool/vijaymanikantareddy?ext=contest)](https://leetcode.com/vijaymanikantareddy/)
+
+<h3 align="left">GeeksforGeeks Statistics:</h3>
+
+[![Vijay's GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=vijaymanikantareddy)](https://www.geeksforgeeks.org/user/vijaymanikantareddy/)
+
+<h3 align="left">CodeForces Statistics:</h3>
+
+![CodeForces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=vijaymanikantareddy)
 
 
 
