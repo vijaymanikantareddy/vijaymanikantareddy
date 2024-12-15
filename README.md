@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 
 <h3 align="left">GeeksforGeeks Statistics:</h3>
 
-[![Vijay's GeeksforGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/?userName=vijaymanikantareddy)](https://www.geeksforgeeks.org/user/vijaymanikantareddy/)
+[![Vijay's GeeksforGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=vijaymanikantareddy)](https://auth.geeksforgeeks.org/user/vijaymanikantareddy)
 
 <h3 align="left">CodeForces Statistics:</h3>
 
