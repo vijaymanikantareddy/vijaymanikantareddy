@@ -51,13 +51,13 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 ## 🌐 Socials:
 
 <p align="left" style={display:'flex'; justify-content:'left';align-items:'left';gap:'80px';}>
-<a href="https://linkedin.com/in/vijaymanikantareddy" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaymanikantareddy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/vijaymanikantareddy" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaymanikantareddy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vijaymanikantareddy" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vijaymanikantareddy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijaymanikantareddy" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaymanikantareddy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/vijaymanikantareddy" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaymanikantareddy" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vijaymanikantareddy" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vijaymanikantareddy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/svmreddy7799" target="_blank">
     <img style="background-color:white; filter: invert(100%);" align="left" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="vijaymanikantareddy" height="30" width="40" />
 </a>
-<a href="https://codeforces.com/profile/vijaymaniantareddy" target="_blank">
+<a href="https://codeforces.com/profile/vijaymanikantareddy" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/svmreddy7799" target="_blank">
