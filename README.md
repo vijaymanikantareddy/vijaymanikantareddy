@@ -38,12 +38,17 @@ src="https://img.shields.io/github/followers/vijaymanikantareddy?logo=github&sty
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
-  <picture>
+<!--   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
     <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
+  </picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijaymanikantareddy/vijaymanikantareddy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijaymanikantareddy/vijaymanikantareddy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vijaymanikantareddy/vijaymanikantareddy/output/github-snake.svg" />
+</picture>
+ <br />
   <br />
   <br />
 </div>
